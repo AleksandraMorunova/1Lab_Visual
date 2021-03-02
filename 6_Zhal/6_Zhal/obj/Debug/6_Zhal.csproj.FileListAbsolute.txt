@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\bin\Debug\6_Zhal.exe.config
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\bin\Debug\6_Zhal.exe
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\bin\Debug\6_Zhal.pdb
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\6_Zhal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\_6_Zhal.frmZhal.resources
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\_6_Zhal.Properties.Resources.resources
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\6_Zhal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\6_Zhal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\6_Zhal.exe
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\6_Zhal\6_Zhal\obj\Debug\6_Zhal.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\bin\Debug\7_Window.exe.config
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\bin\Debug\7_Window.exe
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\bin\Debug\7_Window.pdb
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\7_Window.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\_7_Window.frmWindow.resources
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\_7_Window.Properties.Resources.resources
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\7_Window.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\7_Window.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\7_Window.exe
+C:\Users\User\Desktop\Папка\Лабораторні\Visual\7_Window\7_Window\obj\Debug\7_Window.pdb
